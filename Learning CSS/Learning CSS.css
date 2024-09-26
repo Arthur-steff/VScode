@@ -1,0 +1,75 @@
+Learning CSS
+
+
+body{
+    text-align: center;
+}
+
+
+#welcome-nav {
+
+    text-align: center;
+    min-height: 400px 0;
+    min-width: 400px 0;
+    padding: 25px 0;
+    max-height: 400px;
+    width:100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("dark\ wallpaper\ water.png") ;
+    
+}
+
+.table-style{ 
+    background-color: rgba(255, 255, 255, 0.063);
+
+}
+
+.h2-style { 
+    border-bottom: 1px solid white;
+    column-width: 100%;
+    border-bottom: 1px;
+    border-radius: 20px;
+    margin-left: 125px;
+    margin-right: 130px;
+    border-collapse: collapse;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:"Vegan Style Personal Use";
+    font-weight: bold; 
+    background-blend-mode: color-dodge;
+}
+
+
+
+#home-name {
+    font-weight: bold;
+    font-family: "Vegan Style Personal Use";
+    box-flex: center;
+    font-size: 60px;
+    text-align: center;
+    border-radius: 25px;
+    text-shadow: 5px 5px rgba(0, 255, 255, 0.182);
+    overflow: auto;
+    
+    
+}
+
+#internal-link1:hover{
+    color: cyan;
+    text-shadow: 0.5px 0.5px rgb(255, 255, 255);
+    
+}
+#internal-link2:hover{
+    color: cyan;
+    text-shadow: 0.5px 0.5px rgb(255, 255, 255);
+}
+#internal-link3:hover{
+    color: cyan;
+    text-shadow: 0.5px 0.5px rgb(255, 255, 255);
+}
+#internal-link4:hover{
+    color: cyan;
+    text-shadow: 0.5px 0.5px rgb(255, 255, 255);
+}
